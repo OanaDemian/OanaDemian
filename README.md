@@ -1,6 +1,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:140c0c&height=150&section=header&text&fontSize=40" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&pause=1000&color=F6F7F7&multiline=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+Oana.++Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&duration=2000&pause=1000&color=F6F7F7&multiline=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+Oana.++Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+
+## 👩‍💻 I code with
+
+- Languages: JavaScript, Ruby
+- Frontend: React
+- Backend: Express
+- Databases: PostgreSQL, MongoDB
+- Styling: TailwindCSS, CSS 
 
 ## 	💹 GitHub Stats 
 
@@ -26,6 +34,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:140c0c&height=300&section=header&text=Hi,%20I'm%20Oana!&fontSize=90" />
-
 -->
