@@ -2,17 +2,17 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&duration=2000&pause=1000&color=F6F7F7&multiline=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+Oana.++Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
-I'm a passionate and empathetic Software Engineer, recent graduate of the intensive Makers Academy Bootcamp with a background in Applied Behaviour Analysis and Special Needs Education. In my former profession as a Board Certified Behaviour Analyst, I saw technology breaking boundaries and changing people's lives. I would like to be part of a team that creates products aimed at improving our lives and I think technology is a way to do this at a grand scale.
+I'm a passionate and empathetic Software Engineer, recent graduate of the Digital Futures Software Engineering Academy with a background in Applied Behaviour Analysis and Special Needs Education. In my former profession as a Board Certified Behaviour Analyst, I saw technology breaking boundaries and changing people's lives. I would like to be part of a team that creates products aimed at improving our lives and I think technology is a way to do this at a grand scale.
 
 ## 🆕 Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
+| **chitter-MERN** | A full stack social media app.  Users can create an account, authenticate, post messages to a public stream and sign out. | JavaScript MongoDB Express React Node Vite Mongoose Sinon Mocha Chai |
+|news-challenge| A single page application that send requests to the Guardian API to get Headline and Article data and display them. |React JavaScript CSS Vite Vitest|
+|rock-paper-scissors | Rock paper scissors game. |Mocha Chai JavaScript Express Bootstrap|
+| **bank-challenge-df** | Technical test. Solo project. Enables users to deposit, withdraw and print formatted statements. | Javascript, Node, Jasmine, Git. |
 | **Pawty Time**               | A play dating web app, for pet owners to organise dates for their pets. Users can create and edit multiple pet profiles, find, request, approve or reject playdates, and see their pet’s matches on the pet’s profile. | Javascript, Node.js, Jest, Express, MongoDB, Mongoose, React, Cypress, HTML, CSS, Git, Github Actions. | 
-| **Acebookers** | A social media web app. Users can create an account, authenticate, create posts and comment on posts. | Javascript, Node.js, Jest, Express, MongoDB, Mongoose, React, Cypress, HTML, CSS, Git. |
-| **MakersBNB** | A play dating web app, for pet owners to organise dates for their pets. Users can create and edit multiple pet profiles, find, request, approve or reject playdates, and see their pet’s matches on the pet’s profile. | Ruby, Sinatra, RSpec, SQL (PostgreSQL, TablePlus), HTML, CSS, Git. |
-| **Banking Test** | Technical test. Solo project. Enables users to deposit, withdraw and print formatted statements. | Javascript, Node, Jest, Git. |
-
 
 ## 👩‍💻 I code with
 
