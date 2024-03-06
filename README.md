@@ -17,11 +17,11 @@ I'm a passionate and empathetic Software Engineer, recent graduate of the Digita
 
 ## 👩‍💻 I code with
 
-- Languages: JavaScript, Ruby, HTML
+- Languages: JavaScript, Java, Python, Ruby, HTML
 - Frontend: React
 - Backend: Express
 - Databases: PostgreSQL, MongoDB
-- Styling: TailwindCSS, CSS 
+- Styling: CSS, MUI, Bootstrap 
 
 ## 	💹 GitHub Stats 
 
