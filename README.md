@@ -8,7 +8,7 @@ I'm a passionate and empathetic Software Engineer, recent graduate of the Digita
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Reward** | A Progressive Web App that generates a sequence of numbers, all of which average a given value. https://practicalplay.co.uk/ | Vite React MUI Vitest | 
+| **Reward** | A Progressive Web App that generates a sequence of numbers, all of which average a given value https://practicalplay.co.uk/. | Vite React MUI Vitest | 
 | **chitter-MERN** | A full stack social media app.  Users can create an account, authenticate, post messages to a public stream and sign out. | JavaScript MongoDB Express React Node Vite Mongoose Sinon Mocha Chai |
 |news-challenge| A single page application that send requests to the Guardian API to get Headline and Article data and display them. |React JavaScript CSS Vite Vitest|
 |rock-paper-scissors | Rock paper scissors game. |Mocha Chai JavaScript Express Bootstrap|
